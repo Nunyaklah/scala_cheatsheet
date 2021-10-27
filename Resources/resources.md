@@ -9,7 +9,7 @@
 ## Video Tutorials
 * Functional Programming Principles in Scala - https://www.coursera.org/learn/scala-functional-programming
 * Scala & Functional Programming Essentials | Rock the JVM - https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/
-* Scala Tutorial - https://www.youtube.com/watch?v=LQVDJtfpQU0&list=PLS1QulWo1RIagob5D6kMIAvu7DQC5VTh3
+
 
 ## Articles
 * Learning Scala for the Absolute Beginner - https://medium.com/swlh/learn-scala-2a183bac6386
