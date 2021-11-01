@@ -33,7 +33,7 @@ listName.reverse
 List.fill(3)(1)
 
 
-//iterating a list, performs what ever operation is in the foreacjh parenthesis
+//iterating a list, performs what ever operation is in the for each parenthesis
 
 listName.foreach(println)
 
