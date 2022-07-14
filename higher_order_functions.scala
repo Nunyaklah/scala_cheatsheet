@@ -1,6 +1,6 @@
 // HIGHER ORDER FUNCTIONS
 
-def math(x: Double, y: Double, f: (Double, DOuble) => ): Double = f(x ,y);
+def math(x: Double, y: Double, f: (Double, Double) => ): Double = f(x ,y);
 
 
 //using the function as addition
